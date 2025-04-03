@@ -25,16 +25,12 @@ Los **seguros de vida** Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 !!! tip "Consejos"
 
     - Consejo 1
-    - Consejo 2
-    - Consejo 3
 
 ## Costos
 
 !!! question "Costos"
 
     - Costo 1
-    - Costo 2
-    - Costo 3
 
 ## Contactanos
 
