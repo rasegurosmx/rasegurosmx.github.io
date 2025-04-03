@@ -15,29 +15,33 @@ hide:
 ## Descripción
 
 
-![Image title](https://dummyimage.com/600x200/f5f5f5/aaaaaa?text=–%20Image%20–){ width=100% }
-
 <div class="justify" markdown>
 
-Los **seguros de vida** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus non erat dui. Nulla vel neque lacinia, commodo dui quis, imperdiet ipsum. Donec arcu urna, blandit et pharetra vitae, finibus auctor sem. Donec suscipit volutpat ex ut sodales. Curabitur dignissim mauris leo, vitae ultricies risus malesuada at. In convallis lacinia lectus id fermentum. Fusce aliquet aliquet risus a viverra. Sed nec dui pharetra, gravida libero eu, bibendum dolor. Ut tempus velit sed erat mollis pellentesque non et urna. Duis hendrerit odio magna, ac lobortis ipsum tempor vel. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed eget tellus turpis. Etiam sed odio sed tortor porttitor mattis.
+RA Seguros es la empresa aseguradora con mayor experiencia en México. Como **compañía multiramo**,
+ nos destacamos por nuestra solidez y una oferta altamente competitiva. Trabajamos con un
+ **compromiso profundo** para impulsar el **desarrollo de nuestro país**. Inspirados en
+ nuestra filosofía _"vivir es increíble"_, invitamos a disfrutar momentos únicos,
+celebrar la vida y compartir el amor por nuestro querido México.
 
 </div>
 
-## Consejos
+![Image title](https://dummyimage.com/600x200/f5f5f5/aaaaaa?text=–%20Image%20–){ width=100% }
 
-!!! tip "Consejos"
+## Caracteristicas
 
-    - Consejo 1
-    - Consejo 2
-    - Consejo 3
+!!! tip "Aprovecha"
+
+    - Rendimientos garantizados por arriba de la inflación.
+    - Planes de ahorro para tu futuro y el de tus seres queridos, que incluye un seguro de vida y ahorro que te ofrece cobertura en caso de fallecimiento y crecimiento patrimonial.
+    - Orientación para que tus proyectos se hagan realidad a corto, mediano y largo plazo.
 
 ## Costos
 
-!!! question "Costos"
-
-    - Costo 1
-    - Costo 2
-    - Costo 3
+| Edad    | Protección         | Pago Mensual   |
+| ------- | ------------------ | -------------- |
+| 25 años | $ 1,000,000.00 MXN | $ 909.00 MXN   |
+| 35 años | $ 1,000,000.00 MXN | $ 1,250.00 MXN |
+| 55 años | $ 1,000,000.00 MXN | $ 1,946.00 MXN |
 
 ## Contactanos
 

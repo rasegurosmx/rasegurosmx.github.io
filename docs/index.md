@@ -40,13 +40,13 @@ hide:
     [:octicons-arrow-right-24: Contáctanos](contacts/index.md)
 
 
--    :material-head-question:{ .lg .middle } __¿Por qué elegirnos?__
+-    :material-lightbulb-on:{ .lg .middle } __¿Por qué elegirnos?__
 
     ---
 
-    Con más de X años de experiencia, brindamos seguridad y confianza con las mejores coberturas del mercado.
+    Con más de 10 años de experiencia, brindamos seguridad y confianza con las mejores coberturas del mercado.
 
-    [:octicons-arrow-right-24: Conoce más](contacts/index.md)
+    [:octicons-arrow-right-24: Conoce más](about/index.md)
 
 
 </div>

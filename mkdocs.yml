@@ -110,5 +110,7 @@ nav:
     - Servios financieros:
       - services/finanzas/planes-retiro.md
       - services/finanzas/planes-ahorro.md
+  - ¿Quiénes Somos?:
+    - about/index.md
   - Contacto:
     - contacts/index.md

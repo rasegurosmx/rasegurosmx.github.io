@@ -39,4 +39,9 @@ body {
   text-align: justify;
 }
 
+.grid.cards ul li p {
+  text-align: justify;
+  hyphens: auto;
+}
+
 /* .md-typeset__table > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(3) > td:nth-child(1) > code:nth-child(1) */
