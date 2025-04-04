@@ -10,47 +10,47 @@ hide:
   - toc
 ---
 
-# :material-store: Seguro para empresas
+# :material-store: Seguros para empresas
 
 ## Descripción
 
 <div class="justify" markdown>
 
-Los **seguros de vida** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus non erat dui. Nulla vel neque lacinia, commodo dui quis, imperdiet ipsum. Donec arcu urna, blandit et pharetra vitae, finibus auctor sem. Donec suscipit volutpat ex ut sodales. Curabitur dignissim mauris leo, vitae ultricies risus malesuada at. In convallis lacinia lectus id fermentum. Fusce aliquet aliquet risus a viverra. Sed nec dui pharetra, gravida libero eu, bibendum dolor. Ut tempus velit sed erat mollis pellentesque non et urna. Duis hendrerit odio magna, ac lobortis ipsum tempor vel. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed eget tellus turpis. Etiam sed odio sed tortor porttitor mattis.
+Asegúrate de que tu empresa esté **completamente protegida** contra riesgos y daños. Con nuestro seguro, obtendrás una protección integral que incluye daños materiales, responsabilidad civil y cobertura contra incendios y robos, además de **salvaguardar** tus equipos y maquinaria.
 
 </div>
 
-## Consejos
+## Caracteristicas
 
-!!! tip "Consejos"
-
-    - Consejo 1
+!!! tip "Aprovecha"
+    - Protege tus activos con un seguro que te garantiza respaldo financiero y tranquilidad. 
+    - No permitas que riesgos imprevistos y daños comprometan el futuro de tu negocio.
 
 ## Costos
 
 !!! question "Costos"
-
-    - Costo 1
+    Cada empresa es única. Por ello desarrollamos soluciones personalizadas 
+    que se ajustan a las características y requerimientos específicos de tu negocio. De esta forma, garantizamos que obtengas la protección ideal adaptada a tu presupuesto. ¡Contáctanos y descubre el plan perfecto para ti!
 
 ## Contactanos
 
 <div class="grid cards" markdown>
 
--    :material-email:{ .lg .middle } __Emal__
+-    :material-email:{ .lg .middle } __Email__
 
     ---
 
-    Mandanos un email dando clic aqui
+    Envíanos un correo con tus preguntas o inquietudes y te responderemos lo antes posible.
     </br>
 
-    [:octicons-arrow-right-24: Go](../../contacts/index.md)
+    [:octicons-arrow-right-24: Enviar email](mailto:tuemail@gmail.com) &nbsp; &nbsp; &nbsp; &nbsp;  [:octicons-arrow-right-24: Enviar con Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=tuemail@example.com&su=Consulta&body=Hola,%20quisiera%20más%20información.)
 
 -    :simple-whatsapp:{ .lg .middle } __WhatsApp__
 
     ---
 
-    Puedas mandarnos un mensaje por Whatsapp
+    Chatea con nosotros a través de WhatsApp y recibe asistencia rápida y personalizada.
 
-    [:octicons-arrow-right-24: Go](../../contacts/index.md)
+    [:octicons-arrow-right-24: Escribenos por WhatsApp](https://api.whatsapp.com/send?phone=2224897969&text=Hola!%20Me%20gustar%C3%ADa%20recibir%20m%C3%A1s%20informaci%C3%B3n.)
 
 </div>

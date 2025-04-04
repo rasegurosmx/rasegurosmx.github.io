@@ -15,9 +15,9 @@ body {
 }
 
 /* Minimum width for the first cell of all rows in specific content tables */
-.md-typeset__scrollwrap table td:first-child {
+/* .md-typeset__scrollwrap table td:first-child {
     min-width: 16em;
-}
+} */
 
 /* Justify text in the second cell of all rows in the table */
 .md-typeset table td:last-child {
@@ -39,6 +39,7 @@ body {
   text-align: justify;
 }
 
+/* Justify text inside cards */
 .grid.cards ul li p {
   text-align: justify;
   hyphens: auto;

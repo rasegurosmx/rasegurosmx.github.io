@@ -12,10 +12,8 @@ hide:
 
 # :material-shield: Servicios
 
-
 !!! success "Tu tranquilidad, nuestra prioridad"
     Protegemos lo que más importa y ayudamos a asegurar tu futuro financiero. Encuentra el seguro ideal para ti y los mejores planes de ahorro y retiro diseñados para brindarte tranquilidad y estabilidad. Descubre cómo podemos ayudarte hoy mismo.
-
 
 
 <div class="justify" markdown>
@@ -26,7 +24,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--    :fontawesome-solid-hand-holding-medical:{ .lg .middle } __Seguro de vida__
+-    :fontawesome-solid-hand-holding-medical:{ .lg .middle } __Seguros de vida__
 
     ---
 
@@ -34,7 +32,7 @@ hide:
 
     [:octicons-arrow-right-24: Conoce más](seguros/seguro-de-vida.md)
 
--    :material-medical-bag:{ .lg .middle } __Seguro médico__
+-    :material-medical-bag:{ .lg .middle } __Seguros de gastos médicos__
 
     ---
 
@@ -44,7 +42,7 @@ hide:
 	
 	
 
--    :material-store:{ .lg .middle } __Seguro para empresas__
+-    :material-store:{ .lg .middle } __Seguros para empresas__
 
     ---
 
@@ -54,7 +52,7 @@ hide:
 
 
 
--    :material-car-side:{ .lg .middle } __Seguro de auto__
+-    :material-car-side:{ .lg .middle } __Seguros de auto__
 
     ---
 

@@ -10,82 +10,51 @@ hide:
   - toc
 ---
 
-# :material-medical-bag: Seguro médico
+# :material-medical-bag: Seguros de gastos médicos
 
 ## Descripción
 
 <div class="justify" markdown>
 
-![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=–%20Image%20–){ align=left width=300 }
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
-
-<br>
-<br>
+**Protege tu salud y tu patrimonio con un seguro de gastos médicos mayores.**
+Disfruta de una cobertura médica y financiera a corto, mediano y largo plazo, que te respalda en caso de enfermedad o accidente. Además, recibirás atención en los mejores hospitales y con especialistas de alta calidad.
 
 </div>
 
+![Image title](https://dummyimage.com/600x200/f5f5f5/aaaaaa?text=–%20Image%20–){ width=100% }
 
+## Caracteristicas
 
-<div class="justify" markdown>
-
-![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=–%20Image%20–){ align=right width=300 }
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
-
-<br>
-<br>
-<br>
-<br>
-
-</div>
-
-
-
-<div class="justify" markdown>
-
-Los **seguros de vida** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus non erat dui. Nulla vel neque lacinia, commodo dui quis, imperdiet ipsum. Donec arcu urna, blandit et pharetra vitae, finibus auctor sem. Donec suscipit volutpat ex ut sodales. Curabitur dignissim mauris leo, vitae ultricies risus malesuada at. In convallis lacinia lectus id fermentum. Fusce aliquet aliquet risus a viverra. Sed nec dui pharetra, gravida libero eu, bibendum dolor. Ut tempus velit sed erat mollis pellentesque non et urna. Duis hendrerit odio magna, ac lobortis ipsum tempor vel. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed eget tellus turpis. Etiam sed odio sed tortor porttitor mattis.
-
-</div>
-
-## Consejos
-
-!!! tip "Consejos"
-
-    - Consejo 1
-    - Consejo 2
-    - Consejo 3
+!!! tip "Aprovecha"
+    - Protección contra imprevistos y enfermedades.
+    - Seguridad financiera para tu salud y tu patrimonio.
+    - Diseñamos una propuesta a tu medida, adaptada a tus necesidades y presupuesto, con coberturas anuales que respetan tu antigüedad.
+    - En caso de accidente, eliminamos el pago de tu deducible.
 
 ## Costos
 
 !!! question "Costos"
-
-    - Costo 1
-    - Costo 2
-    - Costo 3
+    Según tu edad, nivel hospitalario y las coberturas que requieras, diseñamos la solución ideal, a la medida de tus necesidades y presupuesto. ¡Contáctanos y descubre el plan perfecto para ti!
 
 ## Contactanos
 
 <div class="grid cards" markdown>
 
--    :material-email:{ .lg .middle } __Emal__
+-    :material-email:{ .lg .middle } __Email__
 
     ---
 
-    Mandanos un email dando clic aqui
+    Envíanos un correo con tus preguntas o inquietudes y te responderemos lo antes posible.
     </br>
 
-    [:octicons-arrow-right-24: Go](../../contacts/index.md)
+    [:octicons-arrow-right-24: Enviar email](mailto:tuemail@gmail.com) &nbsp; &nbsp; &nbsp; &nbsp;  [:octicons-arrow-right-24: Enviar con Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=tuemail@example.com&su=Consulta&body=Hola,%20quisiera%20más%20información.)
 
 -    :simple-whatsapp:{ .lg .middle } __WhatsApp__
 
     ---
 
-    Puedas mandarnos un mensaje por Whatsapp
+    Chatea con nosotros a través de WhatsApp y recibe asistencia rápida y personalizada.
 
-    [:octicons-arrow-right-24: Go](../../contacts/index.md)
+    [:octicons-arrow-right-24: Escribenos por WhatsApp](https://api.whatsapp.com/send?phone=2224897969&text=Hola!%20Me%20gustar%C3%ADa%20recibir%20m%C3%A1s%20informaci%C3%B3n.)
 
 </div>

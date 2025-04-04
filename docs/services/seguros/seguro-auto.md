@@ -10,51 +10,70 @@ hide:
   - toc
 ---
 
-# :material-car-side: Seguro de auto
+# :material-car-side: Seguros de auto
 
 ## Descripción
 
 <div class="justify" markdown>
 
-Los **seguros de vida** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus non erat dui. Nulla vel neque lacinia, commodo dui quis, imperdiet ipsum. Donec arcu urna, blandit et pharetra vitae, finibus auctor sem. Donec suscipit volutpat ex ut sodales. Curabitur dignissim mauris leo, vitae ultricies risus malesuada at. In convallis lacinia lectus id fermentum. Fusce aliquet aliquet risus a viverra. Sed nec dui pharetra, gravida libero eu, bibendum dolor. Ut tempus velit sed erat mollis pellentesque non et urna. Duis hendrerit odio magna, ac lobortis ipsum tempor vel. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed eget tellus turpis. Etiam sed odio sed tortor porttitor mattis.
+Protege tu vehículo y cuida tus finanzas con nuestro seguros de autos, diseñados para brindarte una cobertura integral que protege tanto tu automóvil como a quienes viajan en él. Con respaldo financiero ante imprevistos y una atención personalizada, disfruta de cada trayecto con la confianza de saber que tú y tus acompañantes están completamente protegidos.
 
 </div>
 
+## Caracteristicas
+
+<div class="justify" markdown>
+
+Tú decides el nivel de protección de tu patrimonio. Elige entre nuestras opciones de cobertura – amplia, limitada o daños a terceros – y personaliza tu seguro según tus necesidades. Así, garantizamos la tranquilidad y seguridad que mereces, adaptándonos a cada aspecto de tu vida y patrimonio.
+
+</div>
+
+!!! tip "Aprovecha"
+    - **En caso de robo total**: Recuperas tu inversión.
+    - **Responsabilidad civil**: Cubrimos los daños ocasionados a bienes de terceros.
+    - **Extensión de cobertura de responsabilidad civil**: Protege contra daños a terceros.
+    - **Pérdida total y parcial**: Se te reembolsa por los daños que sufra tu vehículo ante un choque o fenómeno natural.
+    - **Gastos médicos a ocupantes**: Cubrimos los gastos derivados de un accidente.
+    - **Asistencia vial**: Incluye servicio de grúa, envío de combustible, asistencia de cerrajero y cambio de llantas.
+    - **Protección legal**: Te asignamos al mejor abogado en caso de que necesites asesoría legal.
+    - **Cobertura de cristales**: Protege parabrisas, medallones, cristales laterales, aletas y quemacocos.
+
+<div class="justify" markdown>
+
+Para complementar tus coberturas y satisfacer todas tus necesidades, en agencia te ofrecemos servicios adicionales que incluyen protección contra el robo de llantas y rines, cobertura en accidentes del conductor, auto sustituto, responsabilidad civil para ocupantes y cobertura RC en Estados Unidos.
+
+</div>
 ## Consejos
 
-!!! tip "Consejos"
-
-    - Consejo 1
-    - Consejo 2
-    - Consejo 3
+!!! info "Información relavante"
+    - Es fundamental que siempre lleves contigo una copia de tu póliza y el recibo de pago.
+    - Guarda la tarjeta de identificación en tu cartera o bolso.
+    - Al conducir, asegúrate de portar tu licencia de manejo (o permiso) junto con la tarjeta de circulación.
 
 ## Costos
 
 !!! question "Costos"
-
-    - Costo 1
-    - Costo 2
-    - Costo 3
+      Para obtener más información sobre costos y opciones de cobertura, por favor comunícate con nosotros. Juntos, encontraremos la solución ideal que se ajuste a tus necesidades y presupuesto. ¡Estamos listos para ayudarte!
 
 ## Contactanos
 
 <div class="grid cards" markdown>
 
--    :material-email:{ .lg .middle } __Emal__
+-    :material-email:{ .lg .middle } __Email__
 
     ---
 
-    Mandanos un email dando clic aqui
+    Envíanos un correo con tus preguntas o inquietudes y te responderemos lo antes posible.
     </br>
 
-    [:octicons-arrow-right-24: Go](../../contacts/index.md)
+    [:octicons-arrow-right-24: Enviar email](mailto:tuemail@gmail.com) &nbsp; &nbsp; &nbsp; &nbsp;  [:octicons-arrow-right-24: Enviar con Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=tuemail@example.com&su=Consulta&body=Hola,%20quisiera%20más%20información.)
 
 -    :simple-whatsapp:{ .lg .middle } __WhatsApp__
 
     ---
 
-    Puedas mandarnos un mensaje por Whatsapp
+    Chatea con nosotros a través de WhatsApp y recibe asistencia rápida y personalizada.
 
-    [:octicons-arrow-right-24: Go](../../contacts/index.md)
+    [:octicons-arrow-right-24: Escribenos por WhatsApp](https://api.whatsapp.com/send?phone=2224897969&text=Hola!%20Me%20gustar%C3%ADa%20recibir%20m%C3%A1s%20informaci%C3%B3n.)
 
 </div>
