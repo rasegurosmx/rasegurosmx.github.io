@@ -107,6 +107,8 @@ nav:
       - services/seguros/seguro-medico.md
       - services/seguros/seguro-empresas.md
       - services/seguros/seguro-auto.md
+      - services/seguros/seguro-mascotas.md
+      - services/seguros/seguro-casa.md
     - Servios financieros:
       - services/finanzas/planes-retiro.md
       - services/finanzas/planes-ahorro.md

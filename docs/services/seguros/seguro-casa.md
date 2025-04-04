@@ -2,22 +2,21 @@
 draft: false
 date: 2025-01-05
 description: >
-  Seguros de gastos médicos
+  Seguros de casa/negocio
 authors: Ciro Bermudez
-icon: material/medical-bag
+icon: fontawesome/solid/house
 hide: 
 #  - navigation
   - toc
 ---
 
-# :material-medical-bag: Seguros de gastos médicos
+# :fontawesome-solid-house: Seguros de vivienda
 
 ## Descripción
 
 <div class="justify" markdown>
 
-**Protege tu salud y tu patrimonio con un seguro de gastos médicos mayores.**
-Disfruta de una cobertura médica y financiera a corto, mediano y largo plazo, que te respalda en caso de enfermedad o accidente. Además, recibirás atención en los mejores hospitales y con especialistas de alta calidad.
+Asegura tu vivienda o negocio y **protege tu patrimonio** con un seguro diseñado para ofrecerte una cobertura completa ante imprevistos. Nuestros seguros de vivienda te **respaldan** frente a daños y pérdidas ocasionados por incendios, temblores, inundaciones y robos, ya sea de menaje o en tránsito, además de incluir cobertura de responsabilidad civil para que tú y tus seres queridos estén siempre protegidos.
 
 </div>
 
@@ -31,10 +30,20 @@ Disfruta de una cobertura médica y financiera a corto, mediano y largo plazo, q
     - Diseñamos una propuesta a tu medida, adaptada a tus necesidades y presupuesto, con coberturas anuales que respetan tu antigüedad.
     - En caso de accidente, eliminamos el pago de tu deducible.
 
+## Consejos
+
+!!! info "Información relevante"
+
+    - **Evalúa tus Necesidades**: Realiza revisiones periódicas de tus bienes para asegurarte de que la cobertura se ajuste a tus requerimientos.
+    - **Invierte en Prevención**: Considera implementar sistemas de seguridad, alarmas y otros dispositivos que complementen tu seguro.
+    - **Consulta a Nuestros Expertos**: Aprovecha la asesoría personalizada para conocer todas las opciones disponibles y maximizar tu protección.
+
 ## Costos
 
 !!! question "Costos"
-    Según tu edad, nivel hospitalario y las coberturas que requieras, diseñamos la solución ideal, a la medida de tus necesidades y presupuesto. ¡Contáctanos y descubre el plan perfecto para ti!
+    Entendemos que cada cliente es único, por eso nuestros planes se diseñan a la medida. Para obtener más información sobre costos y descubrir la solución ideal para tu vivienda o negocio, te invitamos a comunicarte con nosotros. Juntos, encontraremos la mejor opción para proteger lo que más valoras.
+
+¡Contáctanos hoy y asegura tu tranquilidad!
 
 ## Contactanos
 

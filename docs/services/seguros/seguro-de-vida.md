@@ -2,7 +2,7 @@
 draft: false
 date: 2025-01-05
 description: >
-  Seguro de vida
+  Seguros de vida
 authors: Ciro Bermudez
 icon: fontawesome/solid/hand-holding-medical
 hide: 

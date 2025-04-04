@@ -2,7 +2,7 @@
 draft: false
 date: 2025-01-05
 description: >
-  Seguro para empresas
+  Seguros para empresas
 authors: Ciro Bermudez
 icon: material/store
 hide: 

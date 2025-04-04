@@ -2,7 +2,7 @@
 draft: false
 date: 2025-01-05
 description: >
-  Seguro de auto
+  Seguros de auto
 authors: Ciro Bermudez
 icon: material/car-side
 hide: 
@@ -16,7 +16,7 @@ hide:
 
 <div class="justify" markdown>
 
-Protege tu vehículo y cuida tus finanzas con nuestro seguros de autos, diseñados para brindarte una cobertura integral que protege tanto tu automóvil como a quienes viajan en él. Con respaldo financiero ante imprevistos y una atención personalizada, disfruta de cada trayecto con la confianza de saber que tú y tus acompañantes están completamente protegidos.
+Protege tu vehículo y cuida tus finanzas con nuestro seguros de autos, diseñados para brindarte una cobertura integral que **protege** tanto tu **automóvil** como a quienes viajan en él. Con respaldo financiero ante imprevistos y una **atención personalizada**, disfruta de cada trayecto con la confianza de saber que tú y tus acompañantes están completamente protegidos.
 
 </div>
 
