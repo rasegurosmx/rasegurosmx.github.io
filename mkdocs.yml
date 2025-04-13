@@ -73,6 +73,7 @@ extra_javascript:
 
 # Extensions
 markdown_extensions:
+  - tables
   - attr_list
   - md_in_html
   - pymdownx.blocks.caption
@@ -112,6 +113,8 @@ nav:
     - Servios financieros:
       - services/finanzas/planes-retiro.md
       - services/finanzas/planes-ahorro.md
+      - services/finanzas/planes-estudio.md
+      - services/finanzas/planes-inversion.md
   - ¿Quiénes Somos?:
     - about/index.md
   - Contacto:

@@ -2,7 +2,7 @@
 draft: false
 date: 2025-01-05
 description: >
-  Plan de ahorro
+  Planes de ahorro
 authors: Ciro Bermudez
 icon: material/piggy-bank
 hide: 
@@ -10,13 +10,13 @@ hide:
   - toc
 ---
 
-# :material-piggy-bank: Plan de ahorro
+# :material-piggy-bank: Planes de ahorro
 
 ## Descripción
 
 <div class="justify" markdown>
 
-Los **seguros de vida** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus non erat dui. Nulla vel neque lacinia, commodo dui quis, imperdiet ipsum. Donec arcu urna, blandit et pharetra vitae, finibus auctor sem. Donec suscipit volutpat ex ut sodales. Curabitur dignissim mauris leo, vitae ultricies risus malesuada at. In convallis lacinia lectus id fermentum. Fusce aliquet aliquet risus a viverra. Sed nec dui pharetra, gravida libero eu, bibendum dolor. Ut tempus velit sed erat mollis pellentesque non et urna. Duis hendrerit odio magna, ac lobortis ipsum tempor vel. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed eget tellus turpis. Etiam sed odio sed tortor porttitor mattis.
+Nuestros **planes de ahorro** son un portafolio de inversión flexible, diseñado para adaptarse a tus metas y horizontes financieros sin imponer montos fijos ni plazos preestablecidos. Con una estrategia diversificada y un enfoque en el crecimiento seguro, garantizamos rendimientos superiores a la inflación, protegiendo tu poder adquisitivo a lo largo del tiempo. Esta solución te permite invertir de manera natural y progresiva, acomodándose a tus necesidades en cada etapa de tu vida.
 
 </div>
 
@@ -24,36 +24,49 @@ Los **seguros de vida** Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 !!! tip "Consejos"
 
-    - Consejo 1
-    - Consejo 2
-    - Consejo 3
+    - **Establece tus objetivos**:
+
+        Define qué metas quieres alcanzar, ya sea la creación de un fondo de emergencia, la planificación de una inversión para el futuro o el logro de la independencia financiera.
+
+    - **Aprovecha la flexibilidad del portafolio**:
+
+        Al no tener montos ni plazos fijos, puedes adaptar el plan a tu situación y ajustar tus inversiones conforme evolucionen tus prioridades.
+
+    - **Haz un seguimiento constante**:
+
+        Revisa periódicamente el desempeño de tu portafolio para asegurarte de que se mantenga alineado con tus objetivos y reevalúa tus estrategias de inversión según sea necesario.
+
+    - **Diversifica tus inversiones**:
+
+        Aprovecha las oportunidades que ofrece nuestro portafolio diversificado, diseñado para maximizar la rentabilidad sin comprometer la seguridad financiera.
 
 ## Costos
 
 !!! question "Costos"
 
-    - Costo 1
-    - Costo 2
-    - Costo 3
+    Nuestros planes de ahorro están pensados para ser accesibles y totalmente ajustables a tu capacidad de inversión. Te invitamos a comunicarte con nosotros para realizar una evaluación personalizada y determinar el plan ideal que combine flexibilidad y solidez. Juntos, encontraremos la mejor estrategia para garantizar rendimientos atractivos y superiores a la inflación, asegurando un crecimiento constante y sostenible de tus recursos.
+
+    
 ## Contactanos
 
 <div class="grid cards" markdown>
 
--    :material-email:{ .lg .middle } __Emal__
+-    :material-email:{ .lg .middle } __Email__
 
     ---
 
-    Mandanos un email dando clic aqui
+    Envíanos un correo con tus preguntas o inquietudes y te responderemos lo antes posible.
     </br>
 
-    [:octicons-arrow-right-24: Go](../../contacts/index.md)
+    [:octicons-arrow-right-24: Enviar email](mailto:rasegurosmx@gmail.com?subject=Solicitud%20de%20información%20de%20seguros&body=Hola,%20estoy%20interesado%20en%20conocer%20más%20sobre%20las%20opciones%20de%20seguro.%20Agradecería%20su%20respuesta.%20Saludos.) &nbsp; &nbsp; &nbsp; &nbsp;
+    [:octicons-arrow-right-24: Enviar con Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=rasegurosmx@gmail.com&su=Solicitud%20de%20informaci%C3%B3n%20de%20seguros&body=Hola,%20estoy%20interesado%20en%20conocer%20m%C3%A1s%20sobre%20las%20opciones%20de%20seguro.%20Agradecer%C3%ADa%20su%20respuesta.%20Saludos.)
 
 -    :simple-whatsapp:{ .lg .middle } __WhatsApp__
 
     ---
 
-    Puedas mandarnos un mensaje por Whatsapp
+    Chatea con nosotros a través de WhatsApp y recibe asistencia rápida y personalizada.
 
-    [:octicons-arrow-right-24: Go](../../contacts/index.md)
+    [:octicons-arrow-right-24: Escribenos por WhatsApp](https://api.whatsapp.com/send?phone=5212224897969&text=Hola%2C%20estoy%20interesado%20en%20conocer%20m%C3%A1s%20sobre%20las%20opciones%20de%20seguro.%20Agradecer%C3%ADa%20su%20respuesta.%20Saludos.)
 
-</div>
+</div>>
