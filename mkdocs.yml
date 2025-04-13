@@ -12,6 +12,7 @@ copyright: >-
 
 # Configuration
 theme:
+  custom_dir: material/overrides
   name: material
   language: es
   palette:

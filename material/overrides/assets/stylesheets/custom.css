@@ -1,0 +1,33 @@
+.landing {
+    min-height: 30vh;
+    padding: 2rem;
+    background-image: linear-gradient(to bottom, var(--md-primary-fg-color), rgba(122, 10, 173, 0.53) 99%, #fff 99%);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;  /* The image will not exceed the width of its container */
+}
+
+.logo img {
+  max-width: 100%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+  .logo img {
+    width: 30%;
+  }
+}

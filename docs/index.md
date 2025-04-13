@@ -5,6 +5,7 @@ description: >
   Inicio
 authors: Ciro Bermudez
 icon: material/home
+template: home.html
 hide: 
   - navigation
   - toc
@@ -12,11 +13,9 @@ hide:
 
 # :material-home: Bienvenido a RA Seguros
 
-
 !!! success "Seguridad y confianza para tu futuro"
 
     Seguros y servicios financieros diseñados para proteger lo que más importa. Encuentra la mejor opción para ti hoy mismo.
-
 
 <div class="grid cards" markdown>
 
