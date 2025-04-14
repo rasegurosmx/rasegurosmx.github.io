@@ -26,26 +26,26 @@ Nuestros planes de inversión están diseñados para ayudarte a alcanzar tus met
 
     - **Define tu Perfil de Inversión**:
 
-        Identifica tus objetivos, plazo y nivel de riesgo que estás dispuesto a asumir para elegir la alternativa de inversión que mejor se ajuste a tus necesidades.
+        - Identifica tus objetivos, plazo y nivel de riesgo que estás dispuesto a asumir para elegir la alternativa de inversión que mejor se ajuste a tus necesidades.
 
     - **Diversifica tu Portafolio**:
 
-        Aprovecha la flexibilidad de nuestros planes para distribuir tu inversión en distintos mercados, tanto locales como internacionales, y así minimizar riesgos.
+        - Aprovecha la flexibilidad de nuestros planes para distribuir tu inversión en distintos mercados, tanto locales como internacionales, y así minimizar riesgos.
 
     - **Monitorea el Mercado**:
 
-        Mantente informado sobre las tendencias y cambios en el entorno financiero, lo que te permitirá ajustar tu estrategia y maximizar los rendimientos.
+        - Mantente informado sobre las tendencias y cambios en el entorno financiero, lo que te permitirá ajustar tu estrategia y maximizar los rendimientos.
 
     - **Consulta con Nuestros Expertos**:
 
-        Nuestro equipo está listo para asesorarte en la elección de los instrumentos adecuados y en la gestión de tu portafolio, asegurando que obtengas los mejores resultados.
+        - Nuestro equipo está listo para asesorarte en la elección de los instrumentos adecuados y en la gestión de tu portafolio, asegurando que obtengas los mejores resultados.
 
 ## Costos
 
 !!! question "Costos"
     Nuestros planes de inversión se adaptan a tus necesidades y al monto que desees invertir, sin imponer montos mínimos o plazos fijos. Te invitamos a comunicarte con nosotros para realizar una evaluación personalizada de tu situación financiera y definir juntos la estrategia ideal. Con nuestra asesoría, estarás en camino de lograr rendimientos atractivos, protegiendo y haciendo crecer tu capital de manera sostenible.
 
-## Contactanos
+## Contáctanos
 
 <div class="grid cards" markdown>
 

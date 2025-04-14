@@ -16,11 +16,14 @@ hide:
 
 <div class="justify" markdown>
 
-Asegúrate de que tu empresa esté **completamente protegida** contra riesgos y daños. Con nuestro seguro, obtendrás una protección integral que incluye daños materiales, responsabilidad civil y cobertura contra incendios y robos, además de **salvaguardar** tus equipos y maquinaria.
+Asegúrate de que tu empresa esté **completamente protegida** contra riesgos y
+daños. Con nuestro seguro, obtendrás una protección integral que incluye daños
+materiales, responsabilidad civil y cobertura contra incendios y robos, además
+de **salvaguardar** tus equipos y maquinaria.
 
 </div>
 
-## Caracteristicas
+## Características
 
 !!! tip "Aprovecha"
     - Protege tus activos con un seguro que te garantiza respaldo financiero y tranquilidad. 
@@ -32,7 +35,7 @@ Asegúrate de que tu empresa esté **completamente protegida** contra riesgos y 
     Cada empresa es única. Por ello desarrollamos soluciones personalizadas 
     que se ajustan a las características y requerimientos específicos de tu negocio. De esta forma, garantizamos que obtengas la protección ideal adaptada a tu presupuesto. ¡Contáctanos y descubre el plan perfecto para ti!
 
-## Contactanos
+## Contáctanos
 
 <div class="grid cards" markdown>
 

@@ -26,7 +26,7 @@ celebrar la vida y compartir el amor por nuestro querido México.
 
 ![Image title](https://dummyimage.com/600x200/f5f5f5/aaaaaa?text=–%20Image%20–){ width=100% }
 
-## Caracteristicas
+## Características
 
 !!! tip "Aprovecha"
     - Rendimientos garantizados por arriba de la inflación.
@@ -45,7 +45,7 @@ celebrar la vida y compartir el amor por nuestro querido México.
 
 </div>
 
-## Contactanos
+## Contáctanos
 
 <div class="grid cards" markdown>
 

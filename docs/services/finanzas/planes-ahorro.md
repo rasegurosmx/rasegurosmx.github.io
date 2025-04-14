@@ -26,19 +26,19 @@ Nuestros **planes de ahorro** son un portafolio de inversión flexible, diseñad
 
     - **Establece tus objetivos**:
 
-        Define qué metas quieres alcanzar, ya sea la creación de un fondo de emergencia, la planificación de una inversión para el futuro o el logro de la independencia financiera.
+        - Define qué metas quieres alcanzar, ya sea la creación de un fondo de emergencia, la planificación de una inversión para el futuro o el logro de la independencia financiera.
 
     - **Aprovecha la flexibilidad del portafolio**:
 
-        Al no tener montos ni plazos fijos, puedes adaptar el plan a tu situación y ajustar tus inversiones conforme evolucionen tus prioridades.
+        - Al no tener montos ni plazos fijos, puedes adaptar el plan a tu situación y ajustar tus inversiones conforme evolucionen tus prioridades.
 
     - **Haz un seguimiento constante**:
 
-        Revisa periódicamente el desempeño de tu portafolio para asegurarte de que se mantenga alineado con tus objetivos y reevalúa tus estrategias de inversión según sea necesario.
+        - Revisa periódicamente el desempeño de tu portafolio para asegurarte de que se mantenga alineado con tus objetivos y reevalúa tus estrategias de inversión según sea necesario.
 
     - **Diversifica tus inversiones**:
 
-        Aprovecha las oportunidades que ofrece nuestro portafolio diversificado, diseñado para maximizar la rentabilidad sin comprometer la seguridad financiera.
+        - Aprovecha las oportunidades que ofrece nuestro portafolio diversificado, diseñado para maximizar la rentabilidad sin comprometer la seguridad financiera.
 
 ## Costos
 
@@ -47,7 +47,7 @@ Nuestros **planes de ahorro** son un portafolio de inversión flexible, diseñad
     Nuestros planes de ahorro están pensados para ser accesibles y totalmente ajustables a tu capacidad de inversión. Te invitamos a comunicarte con nosotros para realizar una evaluación personalizada y determinar el plan ideal que combine flexibilidad y solidez. Juntos, encontraremos la mejor estrategia para garantizar rendimientos atractivos y superiores a la inflación, asegurando un crecimiento constante y sostenible de tus recursos.
 
     
-## Contactanos
+## Contáctanos
 
 <div class="grid cards" markdown>
 

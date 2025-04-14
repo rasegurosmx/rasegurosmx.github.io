@@ -23,7 +23,7 @@ Disfruta de una cobertura médica y financiera a corto, mediano y largo plazo, q
 
 ![Image title](https://dummyimage.com/600x200/f5f5f5/aaaaaa?text=–%20Image%20–){ width=100% }
 
-## Caracteristicas
+## Características
 
 !!! tip "Aprovecha"
     - Protección contra imprevistos y enfermedades.
@@ -36,7 +36,7 @@ Disfruta de una cobertura médica y financiera a corto, mediano y largo plazo, q
 !!! question "Costos"
     Según tu edad, nivel hospitalario y las coberturas que requieras, diseñamos la solución ideal, a la medida de tus necesidades y presupuesto. ¡Contáctanos y descubre el plan perfecto para ti!
 
-## Contactanos
+## Contáctanos
 
 <div class="grid cards" markdown>
 

@@ -22,7 +22,7 @@ Asegura tu vivienda o negocio y **protege tu patrimonio** con un seguro diseñad
 
 ![Image title](https://dummyimage.com/600x200/f5f5f5/aaaaaa?text=–%20Image%20–){ width=100% }
 
-## Caracteristicas
+## Características
 
 !!! tip "Aprovecha"
     - Protección contra imprevistos y enfermedades.
@@ -43,7 +43,7 @@ Asegura tu vivienda o negocio y **protege tu patrimonio** con un seguro diseñad
 !!! question "Costos"
     Entendemos que cada cliente es único, por eso nuestros planes se diseñan a la medida. Para obtener más información sobre costos y descubrir la solución ideal para tu vivienda o negocio, te invitamos a comunicarte con nosotros. Juntos, encontraremos la mejor opción para proteger lo que más valoras. ¡Contáctanos hoy y asegura tu tranquilidad!
 
-## Contactanos
+## Contáctanos
 
 <div class="grid cards" markdown>
 

@@ -20,7 +20,7 @@ Protege tu vehículo y cuida tus finanzas con nuestro seguros de autos, diseñad
 
 </div>
 
-## Caracteristicas
+## Características
 
 <div class="justify" markdown>
 
@@ -29,14 +29,37 @@ Tú decides el nivel de protección de tu patrimonio. Elige entre nuestras opcio
 </div>
 
 !!! tip "Aprovecha"
-    - **En caso de robo total**: Recuperas tu inversión.
-    - **Responsabilidad civil**: Cubrimos los daños ocasionados a bienes de terceros.
-    - **Extensión de cobertura de responsabilidad civil**: Protege contra daños a terceros.
-    - **Pérdida total y parcial**: Se te reembolsa por los daños que sufra tu vehículo ante un choque o fenómeno natural.
-    - **Gastos médicos a ocupantes**: Cubrimos los gastos derivados de un accidente.
-    - **Asistencia vial**: Incluye servicio de grúa, envío de combustible, asistencia de cerrajero y cambio de llantas.
-    - **Protección legal**: Te asignamos al mejor abogado en caso de que necesites asesoría legal.
-    - **Cobertura de cristales**: Protege parabrisas, medallones, cristales laterales, aletas y quemacocos.
+    - **En caso de robo total**:
+
+        - Recuperas tu inversión.
+
+    - **Responsabilidad civil**: 
+
+        - Cubrimos los daños ocasionados a bienes de terceros.
+
+    - **Extensión de cobertura de responsabilidad civil**: 
+
+        - Protege contra daños a terceros.
+
+    - **Pérdida total y parcial**: 
+
+        - Se te reembolsa por los daños que sufra tu vehículo ante un choque o fenómeno natural.
+
+    - **Gastos médicos a ocupantes**: 
+
+        - Cubrimos los gastos derivados de un accidente.
+
+    - **Asistencia vial**: 
+
+        - Incluye servicio de grúa, envío de combustible, asistencia de cerrajero y cambio de llantas.
+
+    - **Protección legal**: 
+
+        - Te asignamos al mejor abogado en caso de que necesites asesoría legal.
+
+    - **Cobertura de cristales**: 
+
+        - Protege parabrisas, medallones, cristales laterales, aletas y quemacocos.
 
 <div class="justify" markdown>
 
@@ -46,7 +69,7 @@ Para complementar tus coberturas y satisfacer todas tus necesidades, en agencia 
 
 ## Consejos
 
-!!! info "Información relavante"
+!!! info "Información relevante"
     - Es fundamental que siempre lleves contigo una copia de tu póliza y el recibo de pago.
     - Guarda la tarjeta de identificación en tu cartera o bolso.
     - Al conducir, asegúrate de portar tu licencia de manejo (o permiso) junto con la tarjeta de circulación.
@@ -56,7 +79,7 @@ Para complementar tus coberturas y satisfacer todas tus necesidades, en agencia 
 !!! question "Costos"
       Para obtener más información sobre costos y opciones de cobertura, por favor comunícate con nosotros. Juntos, encontraremos la solución ideal que se ajuste a tus necesidades y presupuesto. ¡Estamos listos para ayudarte!
 
-## Contactanos
+## Contáctanos
 
 <div class="grid cards" markdown>
 

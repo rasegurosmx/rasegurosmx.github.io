@@ -26,22 +26,22 @@ Protege a los que más amas y garantiza que tus seres queridos tengan acceso a u
 
     - **Planifica a Futuro**:
 
-        Considera la educación universitaria como una inversión esencial en el desarrollo personal y profesional. Evalúa las áreas de estudio que mejor se alineen con las oportunidades del mercado laboral actual.
+        - Considera la educación universitaria como una inversión esencial en el desarrollo personal y profesional. Evalúa las áreas de estudio que mejor se alineen con las oportunidades del mercado laboral actual.
 
     - **Revisa la Cobertura**:
 
-        Asegúrate de que el plan incluye beneficios completos, tales como apoyo en el financiamiento de la educación, asesoría en becas y programas de mentoría, que fortalezcan la formación integral del estudiante.
+        - Asegúrate de que el plan incluye beneficios completos, tales como apoyo en el financiamiento de la educación, asesoría en becas y programas de mentoría, que fortalezcan la formación integral del estudiante.
 
     - **Involucra a Toda la Familia**:
 
-        La decisión sobre el camino educativo es un proceso compartido. Conversa con el futuro estudiante y la familia para identificar las necesidades y las metas a alcanzar, asegurando que el plan se ajuste a sus expectativas y aspiraciones.
+        - La decisión sobre el camino educativo es un proceso compartido. Conversa con el futuro estudiante y la familia para identificar las necesidades y las metas a alcanzar, asegurando que el plan se ajuste a sus expectativas y aspiraciones.
 
 ## Costos
 
 !!! question "Costos"
     Nuestros planes de estudios universitarios están diseñados para adaptarse a distintas realidades y presupuestos familiares. Te invitamos a comunicarte con nosotros para realizar una evaluación personalizada y definir juntos la mejor estrategia para proteger la inversión en educación. Juntos, encontraremos el plan ideal que facilite el acceso a una formación académica de calidad, garantizando un futuro profesional sólido y exitoso.
 
-## Contactanos
+## Contáctanos
 
 <div class="grid cards" markdown>
 

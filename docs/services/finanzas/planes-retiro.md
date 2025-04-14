@@ -30,6 +30,7 @@ En RA Seguros, te apoyamos a construir un plan sólido que te brinde seguridad p
 !!! tip "Información relevante"
 
     - **Define tus metas**:
+
         - Evalúa cuánto dinero necesitas para mantener o incluso mejorar tu nivel de vida una vez que te retires.
         - Considera factores clave como tu esperanza de vida, condiciones de salud y la pensión que puedas recibir.
 
@@ -45,7 +46,8 @@ En RA Seguros, te apoyamos a construir un plan sólido que te brinde seguridad p
 
 ## Costos
 
-Una excelente forma de fomentar el hábito del ahorro es a través del **Reto de las 52 semanas**. Este ejercicio consiste en destinar una cantidad creciente cada semana, por ejemplo:
+Una excelente forma de fomentar el hábito del ahorro es a través del 
+**Reto de las 52 semanas**. Este ejercicio consiste en destinar una cantidad creciente cada semana, por ejemplo:
 
 <div class="center-table" markdown>
 
@@ -65,7 +67,7 @@ Con este reto, en 10 años podrías acumular más de $52,000. El monto acumulado
 En RA Seguros te ayudamos a proyectar tu futuro financiero, ofreciéndote herramientas y asesoría para que conviertas el ahorro en la base de un retiro seguro y próspero.
 
 
-## Contactanos
+## Contáctanos
 
 <div class="grid cards" markdown>
 
