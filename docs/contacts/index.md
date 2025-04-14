@@ -29,7 +29,7 @@ hide:
 
     ---
 
-    Haz una llamada directamente desde tu dispositivo..
+    Haz una llamada directamente desde tu dispositivo.
     <br>
     <br>
 
@@ -54,3 +54,4 @@ hide:
 | :material-email: **Email**        | [rasegurosmx@gmail.com](mailto:rasegurosmx@gmail.com?subject=Solicitud%20de%20información%20de%20seguros&body=Hola,%20estoy%20interesado%20en%20conocer%20más%20sobre%20las%20opciones%20de%20seguro.%20Agradecería%20su%20respuesta.%20Saludos.) |
 | :telephone_receiver: **Teléfono** | [Llamar al +52 222 489 7969](tel:+522224897969)                                                                                                                                                                                                   |
 | :simple-whatsapp: **WhatsApp**    | [Escríbenos al +52 222 489 7969](https://api.whatsapp.com/send?phone=5212224897969&text=Hola%2C%20estoy%20interesado%20en%20conocer%20m%C3%A1s%20sobre%20las%20opciones%20de%20seguro.%20Agradecer%C3%ADa%20su%20respuesta.%20Saludos.)           |
+
