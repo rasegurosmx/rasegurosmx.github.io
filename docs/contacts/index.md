@@ -33,7 +33,7 @@ hide:
     <br>
     <br>
 
-    [:octicons-arrow-right-24: Llamar ahora](tel:+522225871482)
+    [:octicons-arrow-right-24: Llamar ahora](tel:+522224897969)
 
 -    :simple-whatsapp:{ .lg .middle } __WhatsApp__
 
