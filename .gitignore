@@ -4,3 +4,7 @@ venv/
 
 # Files
 notes.md
+docs/assets/images/pages/*.svg
+docs/assets/images/pages/*.jpg
+docs/assets/images/pages/*.png
+!docs/assets/images/pages/*-comp.png
