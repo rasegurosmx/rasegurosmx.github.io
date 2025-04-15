@@ -12,6 +12,9 @@ hide:
 
 # :fontawesome-solid-graduation-cap: Planes de estudios
 
+
+![Image title](../../assets/images/pages/09_estudio-comp.png){ width=100% }
+
 ## Descripción
 
 <div class="justify" markdown>

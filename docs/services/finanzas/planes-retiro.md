@@ -12,6 +12,8 @@ hide:
 
 # :material-lightbulb-on: Planes de retiro
 
+![Image title](../../assets/images/pages/07_retiro-comp.png){ width=100% }
+
 ## Descripción
 
 <div class="justify" markdown>

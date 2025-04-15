@@ -12,6 +12,8 @@ hide:
 
 # :fontawesome-solid-money-bill-trend-up: Planes de inversión
 
+![Image title](../../assets/images/pages/10_inversion-comp.png){ width=100% }
+
 ## Descripción
 
 <div class="justify" markdown>

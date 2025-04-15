@@ -12,6 +12,8 @@ hide:
 
 # :material-piggy-bank: Planes de ahorro
 
+![Image title](../../assets/images/pages/08_ahorro-comp.png){ width=100% }
+
 ## Descripción
 
 <div class="justify" markdown>
