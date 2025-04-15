@@ -12,6 +12,8 @@ hide:
 
 # :material-car-side: Seguros de auto
 
+![Image title](../../assets/images/pages/04_car-comp.png){ width=100% }
+
 ## Descripción
 
 <div class="justify" markdown>

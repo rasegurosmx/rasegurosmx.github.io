@@ -12,6 +12,8 @@ hide:
 
 # :material-medical-bag: Seguros de gastos médicos
 
+![Image title](../../assets/images/pages/02_medico-comp.png){ width=100% }
+
 ## Descripción
 
 <div class="justify" markdown>
@@ -21,7 +23,6 @@ Disfruta de una cobertura médica y financiera a corto, mediano y largo plazo, q
 
 </div>
 
-![Image title](https://dummyimage.com/600x200/f5f5f5/aaaaaa?text=–%20Image%20–){ width=100% }
 
 ## Características
 

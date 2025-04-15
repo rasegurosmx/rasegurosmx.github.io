@@ -12,6 +12,8 @@ hide:
 
 # :material-store: Seguros para empresas
 
+![Image title](../../assets/images/pages/03_empresa-comp.png){ width=100% }
+
 ## Descripción
 
 <div class="justify" markdown>

@@ -12,6 +12,8 @@ hide:
 
 # :fontawesome-solid-house: Seguros de vivienda
 
+![Image title](../../assets/images/pages/06_vivienda-comp.png){ width=100% }
+
 ## Descripción
 
 <div class="justify" markdown>
@@ -19,8 +21,6 @@ hide:
 Asegura tu vivienda o negocio y **protege tu patrimonio** con un seguro diseñado para ofrecerte una cobertura completa ante imprevistos. Nuestros seguros de vivienda te **respaldan** frente a daños y pérdidas ocasionados por incendios, temblores, inundaciones y robos, ya sea de menaje o en tránsito, además de incluir cobertura de responsabilidad civil para que tú y tus seres queridos estén siempre protegidos.
 
 </div>
-
-![Image title](https://dummyimage.com/600x200/f5f5f5/aaaaaa?text=–%20Image%20–){ width=100% }
 
 ## Características
 

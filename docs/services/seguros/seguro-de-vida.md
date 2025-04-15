@@ -12,6 +12,8 @@ hide:
 
 # :fontawesome-solid-hand-holding-medical: Seguros de vida
 
+![Image title](../../assets/images/pages/01_vida-comp.png){ width=100% }
+
 ## Descripción
 
 <div class="justify" markdown>
@@ -24,7 +26,6 @@ celebrar la vida y compartir el amor por nuestro querido México.
 
 </div>
 
-![Image title](https://dummyimage.com/600x200/f5f5f5/aaaaaa?text=–%20Image%20–){ width=100% }
 
 ## Características
 

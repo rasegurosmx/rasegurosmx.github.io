@@ -12,6 +12,8 @@ hide:
 
 # :fontawesome-solid-dog: Seguros de mascotas
 
+![Image title](../../assets/images/pages/05_mascota-comp.png){ width=100% }
+
 ## Descripción
 
 <div class="justify" markdown>
@@ -24,12 +26,10 @@ la atención que merece.
 
 </div>
 
-![Image title](https://dummyimage.com/600x200/f5f5f5/aaaaaa?text=–%20Image%20–){ width=100% }
-
 ## Características
 
 !!! tip "Aprovecha"
-    - **Cobertura Integral**: 
+    - **Cobertura Integral**:
 
         - Brinda protección completa para tu mascota ante accidentes y enfermedades.
 
