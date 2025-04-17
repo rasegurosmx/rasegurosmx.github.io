@@ -18,7 +18,7 @@ hide:
 
 <div class="justify" markdown>
 
-RA Seguros es la empresa aseguradora con mayor experiencia en México. Como **compañía multiramo**,
+**RA Seguros** es la empresa aseguradora con mayor experiencia en México. Como **compañía multiramo**,
 nos destacamos por nuestra solidez y una oferta altamente competitiva. Trabajamos con un
 **compromiso profundo** para impulsar el **desarrollo de nuestro país**. Inspirados en
 nuestra filosofía _"vivir es increíble"_, invitamos a disfrutar momentos únicos,

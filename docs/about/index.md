@@ -18,7 +18,7 @@ hide:
 
     ---
 
-    **RA Seguros** es la empresa fundada por la Lic. Guadalupe Ramírez Aguilar, una agente de seguros con más de 10 años de experiencia y presencia en toda la República Mexicana. Durante este tiempo, hemos demostrado nuestra capacidad para adaptarnos a los cambios del mercado y ofrecer soluciones personalizadas que satisfacen las necesidades de nuestros clientes.
+    **RA Seguros** es la empresa fundada por la Lic. Guadalupe Ramírez Aguilar, una agente de seguros **certificada** con más de 10 años de experiencia y presencia en toda la República Mexicana. Durante este tiempo, hemos demostrado nuestra capacidad para adaptarnos a los cambios del mercado y ofrecer soluciones personalizadas que satisfacen las necesidades de nuestros clientes.
 
 </div>
 
