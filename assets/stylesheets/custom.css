@@ -1,0 +1,46 @@
+.landing {
+    min-height: 25vh;
+    padding: 2rem;
+    background-image: linear-gradient(to bottom, var(--md-primary-fg-color), rgba(122, 10, 173, 0.53) 99%, #fff 99%);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;  
+}
+
+.logo img {
+  display: block;
+  margin: 0 auto;
+  height: auto;
+}
+
+/* For small screens (up to 600px wide) */
+@media (max-width: 600px) {
+  .logo img {
+    width: 90%;
+  }
+}
+
+/* For medium screens (between 601px and 1024px wide) */
+@media (min-width: 601px) and (max-width: 1024px) {
+  .logo img {
+    width: 50%;
+  }
+}
+
+/* For large screens (1025px and up) */
+@media (min-width: 1025px) {
+  .logo img {
+    width: 35%;
+  }
+}
